@@ -16,18 +16,12 @@
  - web.xml中通过error-page，实现网站出错后跳转到指定页面；
  
  ### 部分界面
- ![登录][1]
- 
-![部门一览][2]
+![enter description here][1] 
 
-![添加部门][3]
-  
-
-
-  [1]: ./images/2017-10-16_141649.png "登录"
-  [2]: ./images/2017-10-16_142726.png "部门一览"
-  [3]: ./images/2017-10-16_141723.png "添加部门"
   
 ###   其他
 
  - 数据库是Oracle，工程导出sql在webcontent目录中。
+
+
+  [1]: https://github.com/psp0001060/LearnServlet/blob/master/HR_JavaEE/readme/2017-10-16_141649.png
