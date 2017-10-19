@@ -1,4 +1,5 @@
-# LearnServlet
+[toc]
+# 一、LearnServlet
 ## 人事管理系统（HR_JavaEE）
 
    *该案例主要是运用 javaEE基础知识进行开发，目的是让读者了解javaEE知识点如何在项目中应用。*
@@ -33,6 +34,9 @@
 ###   其他
 
  - 数据库是Oracle，工程导出sql在webcontent目录中。
+
+# 二、JavaTimeStampTest
+ 刚入门的新人初次接触到java.sql.Timestamp数据类型时，往往会遇到各种错误（类型转换失败、数据格式化失败），本篇博客主要通过一个对学生表的插入和查询案例介绍Timestamp类型。
 
 
   [1]: https://github.com/psp0001060/LearnServlet/blob/master/HR_JavaEE/readme/2017-10-16_141649.png
